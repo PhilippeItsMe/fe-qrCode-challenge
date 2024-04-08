@@ -29,7 +29,3 @@ body {
     padding: 0 10px; 
     font-weight: 400;
  }
- .grid {
-	display: grid;
-	place-content: center;
-}
